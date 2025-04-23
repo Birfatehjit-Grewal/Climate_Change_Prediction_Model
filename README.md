@@ -1,4 +1,4 @@
-# CMPT353 Climate Insights Project
+# Climate Change Prediction Model
 ## Project Description
 This project investigates the impact of socio-economic factors, such as CO₂ emissions and GDP per capita, on climate change. Using freely available datasets, we aim to analyze these relationships and predict future trends by training a machine learning model. This reposotory contains all the data used to write the report "Climate Insights: Predicting Temperatures with CO₂ and GDP" along with our code used to extract and transform data, train and test our model.
 
@@ -93,7 +93,7 @@ Running **2-FinalModelTraining.py** can also take about 20 minutes. This step ca
 
 In order to save time retraining the model we have already provided the trained model in the Machine_Learning directory that can be tested using the file below. This file will also produce the error plot used in the report.
 
-**Testing**
+**Testing the Model**
 - 3-FinalModelResults.py
 
 
