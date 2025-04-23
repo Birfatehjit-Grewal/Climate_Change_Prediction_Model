@@ -3,7 +3,7 @@
 This project investigates the impact of socio-economic factors, such as CO₂ emissions and GDP per capita, on climate change. Using freely available datasets, we aim to analyze these relationships and predict future trends by training a machine learning model. This reposotory contains all the data used to write the report "Climate Insights: Predicting Temperatures with CO₂ and GDP" along with our code used to extract and transform data, train and test our model.
 
 ## Recommended Python Version
-We recommend using the latest version of Python which at this time is 3.13.1
+The latest version of Python is reccomended and can be downloaded [here](https://www.python.org/downloads/)  which at this time is 3.13.1
 
 ## Git LFS Warning
 This repo contains some files that were uploaded via Git LFS, and so you probably need to run `git lfs install` before pulling it!
